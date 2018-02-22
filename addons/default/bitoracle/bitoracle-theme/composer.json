@@ -1,0 +1,9 @@
+{
+    "name": "bitoracle/bitoracle-theme",
+    "type": "streams-addon",
+    "autoload": {
+        "psr-4": {
+            "Bitoracle\\BitoracleTheme\\": "src/"
+        }
+    }
+}
